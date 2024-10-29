@@ -40,7 +40,6 @@ main()
         int f;
         int t;
         int ret;
-        g2c_set_log_level(15);
 
         /* for (f = 0; f < NUM_FILES; f++) */
         for (f = 0; f < 1; f++)
